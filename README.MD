@@ -9,6 +9,8 @@
 - JQuery 3.6.0
 
 ### Quick Installation
+git clone https://github.com/NGibson1/bootstrap-project.git
+cd bootstrap-project
 
 
 ### Description
